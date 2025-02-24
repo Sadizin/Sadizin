@@ -6,7 +6,10 @@
 
 
 ![Sadi GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadizin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadizin&langs_count=8)
+<div align="center">  
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 
 ## Tecnologias
 <div style="displpay: inline_block"></br>
